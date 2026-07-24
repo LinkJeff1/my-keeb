@@ -17,7 +17,7 @@ Welcome to my custom keyboard build log for the Hack Club Keeb project!
 
 ### Step 1: Planning & Layout
 - [x] Created GitHub repo
-- [ ] Designed layout in Keyboard Layout Editor
+- [x] Designed layout in Keyboard Layout Editor
 
 ### Step 2: PCB Design
 - [ ] Created schematic in KiCad
